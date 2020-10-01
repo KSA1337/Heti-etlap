@@ -14,5 +14,19 @@ body{
 }
 
 h1{
-    text-align: : center;;
+    text-align: center;
+}
+
+.tarto{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.bal {
+    float: left;
+
+}
+
+.jobb {
+    float: right;
 }
