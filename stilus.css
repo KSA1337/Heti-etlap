@@ -5,12 +5,16 @@
 
 html{
     background-color: #fff;
+    padding-top: 20px;
 }
 
 body{
     width: 60%;
     margin: auto;
     background-color: #ef6;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #999999;
+    padding-top: 15px;
 }
 
 h1{
@@ -40,9 +44,12 @@ hr {
 .napok{
     padding-left: 30px;
     position: relative;
+    padding-bottom: 10px;
 }
 
 img.kep{
-    width: 180px;
+    width: 160px;
     position: absolute;
+    right: 40px;
+    bottom: 10px;
 }
