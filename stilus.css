@@ -30,3 +30,19 @@ h1{
 .jobb {
     float: right;
 }
+
+hr {
+    height: 3px;
+    background-color: #f00;
+    border:none;
+}
+
+.napok{
+    padding-left: 30px;
+    position: relative;
+}
+
+img.kep{
+    width: 180px;
+    position: absolute;
+}
